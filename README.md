@@ -1,3 +1,6 @@
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -28,7 +31,6 @@ void f(){
     }
 
     else {
-
         do{
             olay2 = 0;
             for(i = 0 ; i < 2 ; i++)
